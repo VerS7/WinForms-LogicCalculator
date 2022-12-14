@@ -1,1 +1,1 @@
-# WinForms-AAC-LogicCalculator
+# Boolean logic calculator on Windows Forms
